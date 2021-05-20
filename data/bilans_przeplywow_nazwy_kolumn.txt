@@ -1,0 +1,76 @@
+1   Produkty rolnictwa i  łowiectwa Products of agriculture and hunting
+2	Produkty gospodarki leśnej Products of forestry
+3	Ryby i pozostałe produkty rybactwa Fish and other fishing products
+4	Węgiel kamienny i brunatny Coal and lignite
+5	Ropa naftowa i gaz ziemny, rudy metali,  produkty górnictwa pozostałe Crude petroleum and natural gas; metal ores; other mining and quarrying products
+6	Artykuły spożywcze Food products
+7	Napoje Beverages
+8	Wyroby tytoniowe Tobacco products
+9	Wyroby tekstylne Textiles
+10	Odzież Wearing apparel
+11	Skóry i wyroby ze skór wyprawionych Leather and related products
+12	Drewno i wyroby z drewna Wood and products of wood
+13	Papier i wyroby z papieru Paper and paper products
+14	Usługi poligraficzne i reprodukcyjne Printing and recording services
+15	Koks, produkty rafinacji ropy naftowej  Coke, refined petroleum products
+16	Chemikalia, wyroby chemiczne Chemicals and chemical products
+17	Leki i wyroby farmaceutyczne Pharmaceutical products
+18	Wyroby z gumy i tworzyw sztucznych Rubber and plastic products
+19	Wyroby z pozost. surowców niemetalicznych Other non-metallic mineral products
+20	Metale Basic metals
+21	Wyroby metalowe gotowe Fabricated metal products
+22	Komputery, wyroby elektroniczne i optyczne Computer, electronic and optical products
+23	Urządzenia elektr. i nieelektr., sprz. gosp. dom. Electrical equipment
+24	Maszyny i urządzenia gdzie indziej niesklas. Machinery and equipment n.e.c.
+25	Pojazdy samochodowe, przyczepy i naczepy Motor vehicles
+26	Pozostały sprzęt transportowy Other transport equipment
+27	Meble Furniture
+28	Pozostałe wyroby Other manufactured goods
+29	Usł. naprawy, konserw. i instal. maszyn i urz. Repair and installation services of machinery and      equipment
+30	Energia elektrycz., gaz, para wodna i gorąca woda Electricity, gas, steam and air conditioning
+31	Woda; usł. zw. z uzdatn. i dostarczaniem wody Natural water; water treatment and supply services
+32	Usł. związ. z odpadami; odzysk surowców Waste collection., treatment and disposal services; materials recovery services
+33	Usługi związane ze ściekami; osady; usługi związane z rekultywacją Sewerage; remediation services
+34	Obiekty budowlane i roboty budowlane Constructions and construction works
+35	Sprzedaż pojazdów samochod.; napr. pojazdów Sale and repair services of motor vehicles and motorcycles
+36	Handel hurtowy Wholesale trade services
+37	Handel detaliczny Retail trade services
+38	Transport lądowy i rurociągowy Land and pipeline transport services
+39	Transport wodny i lotniczy Water and air transport services
+40	Magazynowanie; usługi pocztowe i kurierskie Warehousing; postal and courier services
+41	Usługi związane z zakwaterowaniem Accommodation services
+42	Usługi związane z wyżywieniem Food and beverage serving services
+43	Usługi związane z działalnością wydawniczą Publishing services
+44	Usługi zw. z prod. filmów, progr. telew., nagrań Motion picture, video and television production, sound recording and music publishing
+45	Usługi zw. z nadawaniem programów Programming and broadcasting services
+46	Usługi telekomunikacyjne Telecommunications services
+47	Usł. zw. z oprogr. i doradztwem w zakr. Informatyki Computer programming, consultancy services
+48	Usługi w zakresie informacji Information services
+49	Usługi finansowe Financial services
+50	Usługi ubezpieczeniowe Insurance services
+51	Usługi wspomagające usł. finansowe i ubezp. Services auxiliary to financ. services and insurance        services
+52	Usługi zw. z obsługą rynku nieruchomości Real estate services
+53	Usługi prawne i rachunkowo-księgowe Legal and accounting services
+54	Usługi doradztwa w zarządzaniu Management consulting services
+55	Usł. architekt. i inżyn.; usł. badań i analiz techn. Architectural and engineering services; technical testing and analysis services
+56	Usługi w zakresie badań nauk. i prac rozwojow. Scientific research and development services
+57	Usł. reklamowe; usł. badania rynku i opinii publ. Advertising and market research services
+58	Pozostałe usł. profesjon., naukowe i techniczne Other professional, scientific and technical services
+59	Usługi weterynaryjne Veterinary services
+60	Wynajem i dzierżawa Rental and leasing services
+61	Usługi związane z zatrudnieniem Employment services
+62	Usługi organizatorów turystyki Travel agency, tour operator and other reservation services and related services
+63	Usługi detektywistyczne i ochroniarskie Security and investigation services
+64	Usługi zw. z utrzymaniem porządku w obiektach Services to buildings and landscape
+65	Usł. zw. z administracyjną obsługą biura Office administrative, office support and other business support services
+66	Usługi administracji publicznej Public administration services
+67	Usługi w zakresie edukacji Education services
+68	Usługi w zakresie opieki zdrowotnej Human health services
+69	Usługi pomocy społecznej Social works services
+70	Usługi kulturalne i rozrywkowe  Creative, arts and entertainment services
+71	Usługi bibliotek, archiwów i muzeów Library, archive, museum services
+72	Usługi związane z grami i zakładami wzajemn. Gambling and betting services
+73	Usługi związane ze sportem, rozryw. i rekr. Sporting services and amusement and recreation services
+74	Usługi organizacji członkowskich Services furnished by membership organisations
+75	Usł. napraw i konserw. komp. i art. użytku dom. Repair services of comput. and personal and household      goods
+76	Pozostałe usługi indywidualne Other personal services
