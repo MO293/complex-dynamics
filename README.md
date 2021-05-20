@@ -1,4 +1,4 @@
-# Complex dynamcis
+# Complex dynamics
 
 Repo with codes for analysis in complex dynamcis with using R programming language.
 
