@@ -1,0 +1,66 @@
+---
+title: "Zadanie do laboratorium 12"
+author: Maksymilian Odziemczyk
+date: 14 stycznia 2021
+output: html_notebook
+---
+
+```{r, include=FALSE}
+library(ggplot2)
+```
+#### **Dane**
+Do wykonania zadania należy wykorzystać dane znajdujące się w pliku goats.txt. Dane przedstawiają wyniki eksperymentu z dwoma sposobami opieki nad młodymi kozami.
+
+#### **Wczytanie danych**
+```{r}
+goats <- read.table("goats.txt", header = TRUE)
+```
+#### **Podgląd ramki**
+```{r}
+head(goats)
+```
+
+#### **Analiza**
+Sprawdzono czy intensywna opieka nad kozami przyczynia się do większego wzrostu wagi.
+
+#### **Histogram wagi początkowej**
+```{r, echo=FALSE}
+h <- hist(x = goats$WeightInitial, main = " ", xlab = 'waga początkowa [kg]', ylab ='liczba kóz', breaks=20)
+```
+#### **Wykres pudełkowy**
+```{r}
+boxplot(Weightgain~Treatment, goats,
+        col=c("green","blue"),
+        xlab="rodzaj opieki",
+        ylab = "przyrost wagi [kg]")
+
+
+```
+
+Średni przyrost wagi w grupie kontrolnej wynosi:
+
+\## [1] 5.55
+
+Średni przyrost wagi w grupie poddanej intensywnej opiece wynosi:
+
+\## [1] 6.85
+\newpage
+
+#### **Wykres punktowy**
+
+```{r, echo=FALSE}
+g <- ggplot()
+points1 <- geom_point(data = goats, aes(x = WeightInitial, y = Weightgain, colour = "#F8766D"), size = 3)
+#points2 <- geom_point(data = goats, aes(x = WeightInitial, y = Weighgain, colour = "#00BFC4"), size = 3) do standardowej wartości
+g + points1 + scale_color_discrete(name = "Treatment", labels = c("intensive", "standard"))
+```
+Zbadano również korelację pomiędzy wagą początkową a przyrostem wagi:
+```{r corr, echo=FALSE}
+cor.test(goats$WeightInitial, goats$Weightgain)
+```
+#### **Wnioski**
+Na podstawie wykonanej analizy stwierdzono:
+
+- rozkład początkowych wag jest bliski rozkładowi jednorodnemu,
+- kozy poddane intensywnej opiece zyskały więcej na wadze,
+- przyrost wagi jest ujemnie skorelowany z wagą początkową kozy.
